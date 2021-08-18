@@ -5,7 +5,7 @@ from colorama import Fore, Style, init
 #from requests_futures.sessions import FuturesSession
 #from requests_futures import sessions
 import requests,json,time,threading
-password ="LTEMX2-DDOS"
+password ="LTEMX2-MAX"
 os.system("clear")
 os.system("figlet password")
 for i in range(3):
